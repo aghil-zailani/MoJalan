@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-mergeDebugResources-33:\\layout\\chat.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-main-36:\\layout\\chat.xml"
+    },
+    {
+        "merged": "com.example.pentacode.app-mergeDebugResources-33:/layout/activity_guide.xml",
+        "source": "com.example.pentacode.app-main-36:/layout/activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-mergeDebugResources-33:\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.pentacode.app-main-36:\\layout\\activity_guide.xml"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+                 
+                        
+                                                 
+           
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Guide" android:tag="layout/activity_guide_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/guideImageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/guide_image" />
+
+    <TextView
+        android:id="@+id/guideNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/guideImageView"
+        android:layout_marginTop="16dp"
+        android:text="Elon Musk"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/guideDescriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/guideNameTextView"
+        android:layout_marginTop="8dp"
+        android:text="Melakukan perjalanan jauh keberbagai tempat, bisa juga keluar negeri."
+        android:textSize="16sp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="openNewPage" />
+
+</RelativeLayout>
+         
